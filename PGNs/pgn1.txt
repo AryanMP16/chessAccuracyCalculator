@@ -1,0 +1,22 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.09.17"]
+[Round "?"]
+[White "Jumanazar1991"]
+[Black "amosavia"]
+[Result "0-1"]
+[ECO "B23"]
+[WhiteElo "1199"]
+[BlackElo "1223"]
+[TimeControl "180"]
+[EndTime "6:56:04 GMT+0000"]
+[Termination "amosavia won on time"]
+[Link "https://www.chess.com/game/live/120294624327"]
+
+1. e4 c5 2. d3 Nc6 3. Nc3 e6 4. Bd2 d5 5. exd5 exd5 6. Be2 Nf6 7. Nf3 Bg4 8. O-O
+Bxf3 9. Bxf3 d4 10. Nb5 a6 11. Na3 Bd6 12. Nc4 O-O 13. Bg5 h6 14. Bxf6 Qxf6 15.
+Bxc6 bxc6 16. a4 Rfe8 17. b3 Rab8 18. Na5 Qe5 19. g3 Qd5 20. Qg4 Re6 21. Rae1
+Rbe8 22. Rxe6 Rxe6 23. Qh4 Rg6 24. Qd8+ Kh7 25. Qh4 Bc7 26. Qh3 Bxa5 27. Qc8 Qd6
+28. Qxa6 Bc7 29. Qc4 Re6 30. c3 dxc3 31. Qxc3 Qd4 32. Qc2 Ba5 33. Rd1 Bb4 34.
+Kg2 g5 35. h3 Kg6 36. Qa2 Qc3 37. a5 Bxa5 38. Ra1 Bb4 39. Qa7 Qf6 40. Rf1 Re2
+41. Qc7 Bc3 0-1
